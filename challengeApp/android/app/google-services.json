@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "184731284124",
+    "project_id": "university-final-project-fb8f6",
+    "storage_bucket": "university-final-project-fb8f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184731284124:android:e439bed2f5900a5376f359",
+        "android_client_info": {
+          "package_name": "com.challengeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184731284124-9akld05bb715k55627crga68pdrs2gtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIn3k3dBW3V6NeBkwwOeZjewZjcGB5l_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184731284124-9akld05bb715k55627crga68pdrs2gtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184731284124:android:070cc48e54fd9e3d76f359",
+        "android_client_info": {
+          "package_name": "com.petapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184731284124-kadrg218u5gvbja3gopb0a205jrb7rc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.petapp",
+            "certificate_hash": "ffbec20018ac342f0abc2c3277f02d659e1b03f6"
+          }
+        },
+        {
+          "client_id": "184731284124-9akld05bb715k55627crga68pdrs2gtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIn3k3dBW3V6NeBkwwOeZjewZjcGB5l_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184731284124-9akld05bb715k55627crga68pdrs2gtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184731284124:android:293041ed2ea1acc576f359",
+        "android_client_info": {
+          "package_name": "com.petappadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184731284124-9akld05bb715k55627crga68pdrs2gtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIn3k3dBW3V6NeBkwwOeZjewZjcGB5l_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184731284124-9akld05bb715k55627crga68pdrs2gtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
